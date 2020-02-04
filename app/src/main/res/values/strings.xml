@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DoubleSpinnerTest</string>
+    <string-array name="gradeLevel">
+        <item>Grade 11</item>
+        <item>Grade 12</item>
+        <item>College</item>
+    </string-array>
+
+    <string-array name="elevenSections">
+        <item>Disney</item>
+        <item>Cohl</item>
+        <item>Rockefeller</item>
+    </string-array>
+
+    <string-array name="twelveSections">
+        <item>Bismuth</item>
+        <item>Carbon</item>
+        <item>Cobalt</item>
+    </string-array>
+
+    <string-array name="collegeSections">
+        <item>Mechanical Engineering</item>
+        <item>MMA</item>
+        <item>Computer Science</item>
+
+    </string-array>
+</resources>
